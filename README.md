@@ -20,7 +20,7 @@ Follow these steps to set up and run the project locally:
 - Create an API key and copy it.
 
 5. Set up environment variables:
-- Add your Google Maps API key to the code where it is required.
+- Add your Google Maps API key to the code where it is required. (I have added mine, replace it)
 - Install Tailwind CSS for your App.
 
 6. Start the development server:
@@ -29,5 +29,5 @@ Follow these steps to set up and run the project locally:
 
     Enjoy..!!
 
-    Note : While Enabling the API og google ensure to add biling to your account (it will not run without payment)
+    Note : While Enabling the API of google ensure to add biling to your account (it will not run without payment)
 
